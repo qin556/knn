@@ -1,6 +1,5 @@
 import os
 from typing import Tuple
-
 import joblib
 import mlflow
 import numpy as np
